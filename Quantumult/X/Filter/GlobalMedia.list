@@ -154,7 +154,7 @@ DOMAIN-SUFFIX,my5.tv,GlobalMedia
 DOMAIN,d349g9zuie06uo.cloudfront.net,GlobalMedia
 # > myTV SUPER
 USER-AGENT,mytv*,GlobalMedia
-DOMAIN-SUFFIX,mytvsuper.com,GlobalMedia
+DOMAIN-KEYWORD,mytvsuper,GlobalMedia
 DOMAIN-SUFFIX,tvb.com,GlobalMedia
 # > Netflix
 USER-AGENT,Argo*,GlobalMedia
